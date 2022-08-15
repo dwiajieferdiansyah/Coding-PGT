@@ -15,3 +15,5 @@ dan masih banyak lagi yang lainnya.
 
 Dalam kegiatan development software, terdapat banyak aktifitas yang kompleks di dalamnya. Kita harus mengidentifikasi terlebih dahulu apa yang kita butuhkan, lalu melakukan prosess planning dan masih ada beberapa tahapan lainnya.
 
+Pada intinya kegiatan software development memang membutuhkan banyak proses, proses tersebut dilakukan guna memastikan apakah software yang kita buat benar-benar dibutuhkan dan apakah software tersebut bisa berjalan sebagaimana fungsinya.
+
